@@ -1,17 +1,17 @@
-# Prework - *Name of App Here*
+# Prework - *BColor*
 
-Submitted by: **Your Name Here**
+Submitted by: **Mike Masamvu**
 
-**Name of your app** is an app that... [TODO] 
+**BColor** is an app that changes the background color of the application.
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -27,7 +27,18 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+1. WhatsApp
+- statuses
+- deleting old messages
+2. Instagram
+- post media i.e pictures and videos
+- post stories
+3. Gmail
+- customs email fonts
+- add links and attachments to emails
+- "undo sent" button as soon as you sent an email
 
+I want to build a transport and logistics platform where cargo owners who need to move their cargo hire trucks owners to transport their goods. Features will include a section where cargo owners list their services on the platform and another section where truck owners will view these available deliveries and select one they prefer. 
 ## Notes
 
 Describe any challenges encountered while building the app.
